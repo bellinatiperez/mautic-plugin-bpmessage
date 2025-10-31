@@ -1,0 +1,14 @@
+{
+    "name": "bellinatiperez/mautic-plugin-bpmessage",
+    "description": "Plugin for Mautic to send messages to BP",
+    "type": "mautic-plugin",
+    "keywords": [
+        "mautic",
+        "plugin",
+        "integration"
+    ],
+    "extra": {
+        "install-directory-name": "MauticBpMessageBundle"
+    },
+    "minimum-stability": "dev"
+}
